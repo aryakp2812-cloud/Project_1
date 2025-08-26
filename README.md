@@ -1,2 +1,2 @@
 # Project_1
-Employee Management System project which helps to to the CRUD operations 
+Employee Management System project which helps to do the CRUD operations 
